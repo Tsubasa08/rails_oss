@@ -1,25 +1,25 @@
 {
 	"folders": [
 		{
-			"path": "forem"
+			"path": "./github.com/forem"
 		},
 		{
-			"path": "gitlabhq"
+			"path": "./github.com/gitlabhq"
 		},
 		{
-			"path": "huginn"
+			"path": "./github.com/huginn"
 		},
 		{
-			"path": "postal"
+			"path": "./github.com/postal"
 		},
 		{
-			"path": "mastodon"
+			"path": "./github.com/mastodon"
 		},
 		{
-			"path": "discourse"
+			"path": "./github.com/discourse"
 		},
 		{
-			"path": "spree"
+			"path": "./github.com/spree"
 		},
 	],
 	"settings": {}
